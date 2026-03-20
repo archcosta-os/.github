@@ -1,6 +1,6 @@
 # 🚀 ArchCosta OS
 
-**ArchCosta** is a high-performance, Arch Linux-based operating system designed for power users and gamers who demand speed, stability, and a polished user experience. Built on the power of **CachyOS** kernel and featuring multiple desktop editions, it brings the best of Arch Linux in a user-friendly, out-of-the-box package.
+**ArchCosta** is a high-performance, Arch Linux-based operating system designed for power users and gamers who demand speed, stability, and a polished user experience. Built on the rock-solid **Linux kernel** and featuring multiple desktop editions, it brings the best of Arch Linux in a user-friendly, out-of-the-box package.
 
 ---
 
@@ -12,11 +12,11 @@
 ---
 
 ### 🛠️ Exclusive ArchCosta Tools
-- **⚡ Performance Tweaks**: System-wide kernel and I/O optimizations for low-latency gaming.
+- **⚡ Performance Tweaks**: System-wide optimizations for low-latency and high throughput.
 - **🛡️ ArchCosta Assistant**: A central GUI for system maintenance and configuration.
 - **🎮 ArchCosta Gamer**: One-click installer for all your gaming essentials (Steam, Wine, Emulators).
 - **🔄 ArchCosta Update**: Robust system update utility with automatic mirror and keyring refreshes.
-- **🌡️ Kernel Manager**: Easily switch between LTS, Zen, and CachyOS kernels.
+- **🌡️ Kernel Manager**: Easily switch between LTS, Zen, and the default Linux kernels.
 
 ---
 
