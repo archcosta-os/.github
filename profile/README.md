@@ -1,6 +1,6 @@
 # 🚀 ArchCosta OS
 
-**ArchCosta** is a high-performance, Arch Linux-based operating system designed for power users and gamers who demand speed, stability, and a polished user experience. Built on the rock-solid **Linux kernel** and featuring multiple desktop editions, it brings the best of Arch Linux in a user-friendly, out-of-the-box package.
+**ArchCosta** is a high-performance, Arch Linux-based operating system designed for power users and gamers who demand speed, stability, and a polished user experience. Built on the **Linux kernel** and featuring multiple desktop editions, it brings the best of Arch Linux in a user-friendly, out-of-the-box package.
 
 ---
 
